@@ -1,0 +1,6 @@
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\bin\Debug\UiPath.Dummy.ActivityProject.dll
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\bin\Debug\UiPath.Dummy.ActivityProject.pdb
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\obj\Debug\UiPath.Dummy.ActivityProject.csproj.AssemblyReference.cache
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\obj\Debug\UiPath.Dummy.ActivityProject.csproj.CoreCompileInputs.cache
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\obj\Debug\UiPath.Dummy.ActivityProject.dll
+C:\Users\ra.tagra\Documents\Activity Classes\UiPath.Dummy.ActivityProject\UiPath.Dummy.ActivityProject\obj\Debug\UiPath.Dummy.ActivityProject.pdb
